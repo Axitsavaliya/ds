@@ -1,5 +1,5 @@
-let arr=[2,5,7,1,8,9];
-let index=2;
+let arr=[8,9,2,4,5,6];
+let index=3;
 
 for (let i=index; i<arr.length; i++) {
     arr[i]=arr[i+1]
